@@ -2,4 +2,4 @@
 
 For YouthxHack 2024 Hackathon
 
-![proces.gif]
+![procces.gif]
