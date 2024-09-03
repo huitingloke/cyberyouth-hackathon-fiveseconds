@@ -4,13 +4,14 @@ Created for the purposes of >4.0GPA's *YouthxHack 2024 Hackathon*.
 
 ## Members
 
-* Keylani K. Dylovan
-* Gabriel Ong Z. M.
-* Tay W. L., Astin
-* Nichole Bun W. X.
-* Bethel Loke H. T.
+* [Keylani K. Dylovan](https://www.linkedin.com/in/kkdylovan/)
+* [Gabriel Ong Z. M.](https://www.linkedin.com/in/gabriel-zmong/)
+* [Tay W. L., Astin](https://www.linkedin.com/in/astintay/)
+* [Nichole Bun W. X.](https://www.linkedin.com/in/nicholebun/)
+* [Bethel Loke H. T.](https://www.linkedin.com/in/bethloke/)
 
-To disclose, for this codebase, ChatGPT 4o was used for assistance. 
+> ![NOTE]
+> To disclose, for this codebase, ChatGPT 4o was used for assistance. 
 
 ## Setup
 
