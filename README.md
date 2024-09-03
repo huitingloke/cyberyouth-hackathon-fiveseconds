@@ -10,9 +10,6 @@ Created for the purposes of >4.0GPA's *YouthxHack 2024 Hackathon*.
 * [Nichole Bun W. X.](https://www.linkedin.com/in/nicholebun/)
 * [Bethel Loke H. T.](https://www.linkedin.com/in/bethloke/)
 
-> ![NOTE]
-> To disclose, for this codebase, ChatGPT 4o was used for assistance. 
-
 ## Setup
 
 * `pip install -r requirements.txt`
@@ -20,3 +17,6 @@ Created for the purposes of >4.0GPA's *YouthxHack 2024 Hackathon*.
 * Put your Firestore `.json` file into the highest level of the tree structure
     * You would require an existing Google Cloud paid Firesbase account and the main Google Cloud CLI
 * To view the Figma, kindly visit this [link](https://www.figma.com/design/XzFdS140osFXyViaS5b4UQ/5seconds?node-id=4-4&t=WruDP8313mYz1D5T-1)
+
+> [!NOTE]
+> To disclose, for this codebase, ChatGPT 4o was used for assistance. 
