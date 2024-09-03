@@ -18,3 +18,4 @@ To disclose, for this codebase, ChatGPT 4o was used for assistance.
 * Start the programme with `flask --app ./src/main run`    
 * Put your Firestore `.json` file into the highest level of the tree structure
     * You would require an existing Google Cloud paid Firesbase account and the main Google Cloud CLI
+* To view the Figma, kindly visit this [link](https://www.figma.com/design/XzFdS140osFXyViaS5b4UQ/5seconds?node-id=4-4&t=WruDP8313mYz1D5T-1)
