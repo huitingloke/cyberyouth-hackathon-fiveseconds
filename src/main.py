@@ -45,15 +45,12 @@ def upload_token():
 def get_token():
 
     data = request.get_json()
-
     hash = data.get("hash")
     
     if not hash:
         return jsonify({"error": "hash is required"}), 400
     
     return cyberyouth_get_token(hash)
-
-
 
 if __name__ == "__main__":
     app.run(debug=True)

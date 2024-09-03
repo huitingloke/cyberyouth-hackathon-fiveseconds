@@ -1,0 +1,24 @@
+---------MAKE SURE YOU ARE IN THAT VENV!-------
+flask --app ./src/main run
+
+curl -X POST http://127.0.0.1:5000/gethash/ \
+-H "Content-Type: application/json" \
+-d '{
+  "company_email": "watermelon@gmail.com",
+  "client_email": "pineapplecompany@yahoo.com"
+}'
+
+-------------- FILL IN HASH! ------------------
+curl -X POST http://127.0.0.1:5000/upload/ \
+-H "Content-Type: application/json" \
+-d '{
+  "hash": "", 
+  "client_token": "my_super_duper_secure_password_heeheeehee"
+}'
+
+-------------- FILL IN HASH! ------------------
+curl -X POST http://127.0.0.1:5000/gettoken/ \
+-H "Content-Type: application/json" \
+-d '{
+  "hash": ""
+}'
