@@ -14,15 +14,15 @@ Solution satisfies the Digital Defences problem statement.
 
 ## Setup
 
+> [!IMPORTANT]
+> You will require an existing [Google Cloud](https://cloud.google.com/) paid Firebase account and the main Google Cloud CLI.
+
 Please place your Firestore `.json` file at the top level of the tree structure.
 
 ```console
 $ pip install -r requirements.txt
 $ flask --app ./src/main run # execute the program
 ```
-
-> [!IMPORTANT]
-> You will require an existing [Google Cloud](https://cloud.google.com/) paid Firebase account and the main Google Cloud CLI.
 
 ## Architecture
 
