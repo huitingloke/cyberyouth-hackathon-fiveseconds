@@ -28,7 +28,7 @@ $ flask --app ./src/main run # execute the program
 
 ![](./asset/architecture.png)
 
-## Other links
+## Others
 
 * View the Figma [here](https://www.figma.com/design/XzFdS140osFXyViaS5b4UQ/5seconds?node-id=4-4&t=WruDP8313mYz1D5T-1)
 * For full disclosure, parts of this codebase relied on ChatGPT 4o
