@@ -1,6 +1,8 @@
 # `five-seconds` -- A Cryptographic, Encrypted One-way Passphrase Implementation.
 
-Created for the purposes of >4.0GPA's *YouthxHack 2024 Hackathon*.
+Created for the purposes of `>4.0GPA`'s solution [*YouthxHack 2024 Hackathon*](https://www.cyberyouth.sg/events/youthxhack-2024-total-defence-edition).  
+  
+Solution satisfies the Digital Defences problem statement.
 
 ## Members
 
@@ -12,11 +14,21 @@ Created for the purposes of >4.0GPA's *YouthxHack 2024 Hackathon*.
 
 ## Setup
 
-* `pip install -r requirements.txt`
-* Start the programme with `flask --app ./src/main run`    
-* Put your Firestore `.json` file into the highest level of the tree structure
-    * You would require an existing Google Cloud paid Firesbase account and the main Google Cloud CLI
-* To view the Figma, kindly visit this [link](https://www.figma.com/design/XzFdS140osFXyViaS5b4UQ/5seconds?node-id=4-4&t=WruDP8313mYz1D5T-1)
+Please place your Firestore `.json` file at the top level of the tree structure.
 
-> [!NOTE]
-> To disclose, for this codebase, ChatGPT 4o was used for assistance. 
+```console
+$ pip install -r requirements.txt
+$ flask --app ./src/main run # execute the program
+```
+
+> [!IMPORTANT]
+> You will require an existing [Google Cloud](https://cloud.google.com/) paid Firebase account and the main Google Cloud CLI.
+
+## Architecture
+
+![](./asset/architecture.png)
+
+## Other links
+
+* View the Figma [here](https://www.figma.com/design/XzFdS140osFXyViaS5b4UQ/5seconds?node-id=4-4&t=WruDP8313mYz1D5T-1)
+* For full disclosure, parts of this codebase relied on ChatGPT 4o
