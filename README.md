@@ -24,10 +24,6 @@ $ pip install -r requirements.txt
 $ flask --app ./src/main run # execute the program
 ```
 
-## Architecture
-
-![](./asset/architecture.png)
-
 ## Others
 
 * View the Figma [here](https://www.figma.com/design/XzFdS140osFXyViaS5b4UQ/5seconds?node-id=4-4&t=WruDP8313mYz1D5T-1)
